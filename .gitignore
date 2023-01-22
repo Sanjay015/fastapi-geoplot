@@ -1,0 +1,4 @@
+bower_components/
+data/
+__pycache__/
+.idea/
